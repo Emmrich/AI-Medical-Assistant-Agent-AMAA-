@@ -78,9 +78,7 @@ AMAA follows strict **compliance protocols**:
 [ AMAA Conversational Layer ]
 
 - Voiceflow Logic
-
 - Natural Language Processing (OpenAI GPT)
-
 - Custom API Calls
 
    ↓
@@ -88,9 +86,7 @@ AMAA follows strict **compliance protocols**:
 [ Integration Layer ]
 
 - EHR / HIS APIs
-
 - Appointment & Calendar APIs
-
 - Telemedicine APIs
 
    ↓
@@ -98,9 +94,7 @@ AMAA follows strict **compliance protocols**:
 [ Data & Analytics Layer ]
 
 - Patient Records (Secure DB)
-
 - Reporting & Insights
-
 
 
 [Built with Voiceflow](https://img.shields.io/badge/Built%20with-Voiceflow-1E90FF?style=for-the-badge&logo=voiceflow)
