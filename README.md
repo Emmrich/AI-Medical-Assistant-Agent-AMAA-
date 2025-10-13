@@ -1,13 +1,12 @@
-<h1>AI Medical Assistant Agent (AMAA)</h1>
+<h1>🚑✨AI Medical Assistant Agent (AMAA)</h1>
+Empowering smarter, faster, and more efficient healthcare through AI automation.
+
 
  ### [Interact With AMAA](https://emmrich.github.io/amaa-website/)
 
 
-<h2>Description</h2>
-# 🚑✨ AMAA (AI Medical Assistant Agent) - Empowering smarter, faster, and more efficient healthcare through AI automation.
-
-## 🧠 Overview  
-**AMAA (AI Medical Assistant Agent)** is a smart conversational AI system, always-on virtual assistant designed to help healthcare providers automate routine tasks, guide patients through self-service interactions, reduce administrative bottlenecks, and improve patient experience — all while integrating seamlessly with existing hospital systems and workflows. Whether triaging symptoms, scheduling appointments, or collecting patient feedback, AMAA works 24/7 to make healthcare more efficient, accurate, and patient-focused.
+<h2>Overview</h2>  
+AMAA (AI Medical Assistant Agent)** is a smart conversational AI system, always-on virtual assistant designed to help healthcare providers automate routine tasks, guide patients through self-service interactions, reduce administrative bottlenecks, and improve patient experience — all while integrating seamlessly with existing hospital systems and workflows. Whether triaging symptoms, scheduling appointments, or collecting patient feedback, AMAA works 24/7 to make healthcare more efficient, accurate, and patient-focused.
 
 Built with **Voiceflow**, **OpenAI APIs**, and **other automation tools**, AMAA provides patients with 24/7 access to medical guidance while streamlining operations for healthcare staff.
 
