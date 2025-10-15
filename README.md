@@ -12,6 +12,19 @@ Built with **Voiceflow**, **OpenAI APIs**, and **other automation tools**, AMAA 
 
 ---
 
+## 🚀 Live Demo / Try It  
+
+🔗 **Interactive Demo:**  
+> [Click here to chat with AMAA](https://emmrich.github.io/amaa-website/)
+
+🧩 **Test it out:**  
+- Ask AMAA to **book an appointment**.  
+- Try describing a **symptom** and see how triage works.  
+- Request a **doctor consultation**.  
+- Explore how it handles **returning vs new patients**.  
+
+---
+
 ## 🎯 Core Objectives
 - Enhance **patient engagement** through intelligent, human-like conversations.  
 - Reduce **administrative workload** by automating repetitive hospital tasks.  
@@ -96,11 +109,7 @@ AMAA follows strict **compliance protocols**:
 - Reporting & Insights
 
 
-[Built with Voiceflow](https://img.shields.io/badge/Built%20with-Voiceflow-1E90FF?style=for-the-badge&logo=voiceflow)
-[Powered by OpenAI](https://img.shields.io/badge/Powered%20by-OpenAI-00A67E?style=for-the-badge&logo=openai)
-[HIPAA Compliant](https://img.shields.io/badge/Compliance-HIPAA-blue?style=for-the-badge&logo=databricks)
-[Data Secure](https://img.shields.io/badge/Data%20Security-Enabled-green?style=for-the-badge&logo=trustpilot)
-[Made with ❤️ by TCS](https://img.shields.io/badge/Made%20with%20❤️%20by-TCS-orange?style=for-the-badge)
+
 
 <br />
 
